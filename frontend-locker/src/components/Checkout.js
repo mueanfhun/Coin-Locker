@@ -18,7 +18,6 @@ class Checkout extends Component {
               <InputNumber className="ant-input-number" min={0} max={9} />
               <InputNumber className="ant-input-number" min={0} max={9} />
               <InputNumber className="ant-input-number" min={0} max={9} />
-              <InputNumber className="ant-input-number" min={0} max={9} />
             </Col>
           </Row>
           <Row>
